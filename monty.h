@@ -12,6 +12,7 @@
 #define STACK 0
 #define QUEUE 1
 #define DELIMS " \n\t\a\b"
+#define _GNU_SOURCE
 
 /* GLOBAL OPCODE TOKEN */
 extern char **op_toks;

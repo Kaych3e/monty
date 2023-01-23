@@ -1,4 +1,8 @@
+#define _GNU_SOURCE
+
 #include "monty.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 int run_monty(FILE *script_fd);
 

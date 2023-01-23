@@ -1,5 +1,5 @@
 #include "monty.h"
-#include "stdio.h"
+#include <stdio.h>
 
 char **op_toks = NULL;
 
